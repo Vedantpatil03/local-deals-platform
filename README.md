@@ -18,6 +18,7 @@ To create a trustless, decentralized ecosystem where small businesses and indivi
 - Add deal categories and search functionality.
 
 ## 5. Contract Address
+ST35E1SRE1C96FM50M3P3R92DACHEE2PJ3BARB4WM.local-deals-platform
 **Contract Name:** `local-deals-platform`  
 **Language:** Clarity  
 **Functions Implemented:**  
