@@ -23,3 +23,5 @@ To create a trustless, decentralized ecosystem where small businesses and indivi
 **Functions Implemented:**  
 1. `post-deal` – Allows sellers to list a deal with a title, price, and quantity.  
 2. `purchase-deal` – Allows buyers to purchase a listed deal using STX tokens.
+
+<img width="1915" height="860" alt="image" src="https://github.com/user-attachments/assets/62b7ca9c-d461-44f1-90d5-1169503e6a11" />
